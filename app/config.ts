@@ -1,6 +1,6 @@
-export const NEXT_PUBLIC_URL = 'https://mint.farcaster.xyz';
-export const ALLOWED_ORIGIN = 'mint.farcaster.xyz';
-export const ZORA_COLLECTION_ADDRESS = '0xf5a3b6dee033ae5025e4332695931cadeb7f4d2b';
+export const NEXT_PUBLIC_URL = 'https://geek-house-og.vercel.app';
+export const ALLOWED_ORIGIN = 'geek-house-og.vercel.app';
+export const ZORA_COLLECTION_ADDRESS = '0x1f2906a6fb92fd8622ea600a388e3510f585214d';
 export const ZORA_TOKEN_ID = '1';
 export const CARD_DIMENSIONS = {
   width: 800,
