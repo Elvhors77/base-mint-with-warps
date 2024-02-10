@@ -4,7 +4,7 @@ import { CARD_DIMENSIONS } from '../../../config';
 
 export async function GET() {
   return new ImageResponse(
-    <Card message="Claim free with Warpcast active badge or mint with Warps." />,
+    <Card message="Claim free with Warpcast active badge or mint with Warps, if you don`t have badge mint directly on zora for free" />,
     CARD_DIMENSIONS,
   );
 }
